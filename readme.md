@@ -10,7 +10,7 @@ You can mark the company with a badge to denote the Kotlin flavor:
 
 - [Next Insurance](http://next-insurance.com) ![Server]
 
-[Server]: ./server.png
-[Android]: ./android.png
-[JS]: ./javascript.png
-[Native]: ./native.png
+[Server]: https://dummyimage.com/60x20/00aedb/ffffff.png&text=Server
+[Android]: https://dummyimage.com/60x20/00b159/eeeeee.png&text=Android
+[JS]: https://dummyimage.com/60x20/f37735/eeeeee.png&text=JS
+[Native]: https://dummyimage.com/60x20/d11141/eeeeee.png&text=Native
